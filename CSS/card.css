@@ -16,7 +16,6 @@ body{
     justify-content: center;
 }
 
-
 .card {
     width: 250px;
     background: #191919;
@@ -33,7 +32,6 @@ body{
     transform: translateY(-8px);
 }
 
-
 .card img {
     width: 100%;
     height: 200px;
@@ -41,7 +39,6 @@ body{
     object-fit: cover;
     display: block;
 }
-
 
 button{
     margin-top: 20px;
@@ -60,4 +57,16 @@ button{
 button:hover{
     background: #fff;
     color: #000000;
+}
+
+.card-blog {
+    width: 80%;
+    background: #191919;
+    padding: 20px;
+    border: 1px dotted darkorange;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: start;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
 }
