@@ -1,4 +1,4 @@
-body{
+body {
     padding: 0;
     margin: 0;
     background-color: #000000;
@@ -7,14 +7,14 @@ body{
     border: none;
 }
 
-.container{
+.container {
     justify-content: center;
     align-items: center;
     display: flex;
     height: 100vh;
 }
 
-.login-box{
+.login-box {
     width: 380px;
     padding: 40px;
     background: #191919;
@@ -27,7 +27,7 @@ body{
     justify-content: space-between;
 }
 
-input{
+input {
     border: none;
     border-bottom: 1px solid #fff;
     background: transparent;
@@ -37,7 +37,7 @@ input{
     font-size: 16px;
 }
 
-button{
+button {
     margin-top: 20px;
     height: 40px;
     width: 100%;
@@ -50,7 +50,7 @@ button{
     cursor: pointer;
 }
 
-button:hover{
+button:hover {
     background: #fff;
     color: #000000;
 }
