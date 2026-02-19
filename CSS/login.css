@@ -19,7 +19,7 @@ body {
     padding: 40px;
     background: #191919;
     text-align: center;
-    border: 1px dashed #fff;
+    border: 1px dashed darkorange;
     border-radius: 20px;
     box-sizing: border-box;
     display: flex;
